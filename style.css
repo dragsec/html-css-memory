@@ -12,7 +12,25 @@ body{
     width: 180px;
     background-color: coral;
     display: inline-block;
-
+    margin-right: 20px;
+    margin-bottom: 20px;
+    background-image: url(img/pattern.png);
+    background-repeat: repeat;
+    background-size:100%;
+    border-radius: 5%;
+}
+.cartascoperta{
+    height: 220px;
+    width: 180px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    background-color: white;;
+    background-image: url(img/noun_air_balloon_3134741.png);
+    border-radius: 5%;
+    background-position: 25% 25%;
+    background-size: 50%;
+    background-repeat: no-repeat;
 }
 .centro{
     text-align: center;
@@ -22,16 +40,16 @@ body{
     content: '';
     clear: both;
 }
-.container{
-    width: 1000px;
-    height: 700px;
+.containercarte{
+    width: 850px;
+    height: 750px;
     background-color: blue;
 }
 footer{
-    padding: 50px 0 20px 0;
+    padding: 10px 0 20px 0;
 }
 .general{
-    width: 1000px;
+    width: 850px;
     margin: auto;
 }
 header{
@@ -41,4 +59,7 @@ header{
     font-size: 80px;
     font-weight: bolder;
     color: white;
+}
+.riga{
+
 }
