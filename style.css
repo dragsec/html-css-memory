@@ -8,10 +8,19 @@ body{
     background-color: cadetblue;
 }
 .carta{
-    
+    height: 220px;
+    width: 180px;
+    background-color: coral;
+    display: inline-block;
+
 }
 .centro{
     text-align: center;
+}
+.clearfix:after {
+    display: table;
+    content: '';
+    clear: both;
 }
 .container{
     width: 1000px;
