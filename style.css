@@ -47,9 +47,6 @@ body{
 footer{
     padding: 10px 0 20px 0;
 }
-.float-left {
-    float: left;
-}
 .general{
     width: 850px;
     margin: auto;
@@ -62,8 +59,8 @@ header{
     font-weight: bolder;
     color: white;
 }
-.riga{
-
+.riga > *{
+    float: left;
 }
 .xdwow{
     border: 1px solid;
