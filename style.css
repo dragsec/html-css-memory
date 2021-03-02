@@ -47,6 +47,9 @@ body{
 footer{
     padding: 10px 0 20px 0;
 }
+.float-left {
+    float: left;
+}
 .general{
     width: 850px;
     margin: auto;
@@ -61,6 +64,9 @@ header{
 }
 .riga{
 
+}
+.xdwow{
+    border: 1px solid;
 }
 
 /* hover vari */
