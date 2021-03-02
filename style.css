@@ -7,6 +7,12 @@ body{
     font-family: 'Courier New', Courier, monospace;
     background-color: cadetblue;
 }
+.cardtext{
+    color: purple;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
 .carta{
     height: 220px;
     width: 180px;
@@ -61,9 +67,6 @@ header{
 }
 .riga > *{
     float: left;
-}
-.xdwow{
-    border: 1px solid;
 }
 
 /* hover vari */
